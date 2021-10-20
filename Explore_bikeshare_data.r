@@ -1,5 +1,5 @@
-
-ny = read.csv('new_york_city.csv')
+setwd("D:/Courses/DS/udacity-git-course/pdsnd_github")
+ny = read.csv('new-york-city.csv')
 wa = read.csv('washington.csv')
 ch = read.csv('chicago.csv')
 
