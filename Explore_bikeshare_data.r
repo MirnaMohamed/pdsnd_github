@@ -47,3 +47,4 @@ User_type(ny)
 #The histogram is used to show the average trip duration based on the gender of users 
 
 system('python -m nbconvert Explore_bikeshare_data.ipynb')
+by(wa$Trip.Duration, wa$User.Type, summary)
