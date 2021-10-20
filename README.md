@@ -8,7 +8,7 @@ Explore bikeshare data
 
 ### Description
 It's used to show the data of three cities: NYC, Washington, and Chicago. The R file shows graphs of the user types, the gender of users, and the average age in each city
-
+I forgot to fix the bikeshare file in the documentation branch so I edited again
 ### Files used
 chicago.csv 
 new-york-city.csv 
